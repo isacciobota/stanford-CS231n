@@ -1,9 +1,9 @@
 # CS231n: Deep Learning for Computer Vision
-This project includes various assignments and projects completed as part of the Stanford CS231n: Deep Learning for Computer Vision course [1]. The initial code is from CS231n assignments [2]. Each folder corresponds to a different assignment or project within the course.
+This project includes various assignments and projects that are part of the Stanford CS231n: Deep Learning for Computer Vision course [1]. The initial code is from CS231n assignments [2]. Each folder corresponds to a different assignment within the course.
 
 
 > [!NOTE]
-> This was solved as a project for a course called Computer Vision at Politehnica University of Timisoara [3]. Because of that, the `cs231n` folders inside each assignment was renamed to `cv`. Also, it was run in Google Colaboratory and I chose to complete the PyTorch files (instead of Tensorflow).
+> This was solved as a project for a course called Computer Vision at Politehnica University of Timisoara [3]. Because of that, the `cs231n` folder inside each assignment was renamed to `cv`. Also, it was run in Google Colaboratory and I chose to complete the PyTorch files (instead of Tensorflow).
 
 ## Content
 
