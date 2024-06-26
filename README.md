@@ -11,7 +11,7 @@ This project includes various assignments and projects completed as part of the 
 * Q1: k-Nearest Neighbor classifier - [knn.ipynb](assignments/assignment1/knn.ipynb)
 * Q2: Training a Support Vector Machine - [svm.ipynb](assignments/assignment1/svm.ipynb)
 * Q3: Implement a Softmax classifier - [softmax.ipynb](assignments/assignment1/softmax.ipynb)
-* Q4: Two-Layer Neural Network - [two_layer_net.ipynb](assignments/assignment1/two_layer_net.ipynb.ipynb)
+* Q4: Two-Layer Neural Network - [two_layer_net.ipynb](assignments/assignment1/two_layer_net.ipynb)
 * Q5: Higher Level Representations: Image Features - [features.ipynb](assignments/assignment1/features.ipynb)
 
 ### Assignment 2
@@ -25,8 +25,8 @@ This project includes various assignments and projects completed as part of the 
 * Q1: Image Captioning with Vanilla RNNs - [RNN_Captioning.ipynb](assignments/assignment3/RNN_Captioning.ipynb)
 * Q2: Image Captioning with LSTMs - [LSTM_Captioning.ipynb](assignments/assignment3/LSTM_Captioning.ipynb)
 * Q3: Network Visualization: Saliency maps, Class Visualization, and Fooling Images - [NetworkVisualization-TensorFlow.ipynb](assignments/assignment3/NetworkVisualization-TensorFlow.ipynb)
-* Q4: Style Transfer - [tyleTransfer-TensorFlow.ipynb](assignments/assignment3/tyleTransfer-TensorFlow.ipynb)
-* Q5: Generative Adversarial Networks - [GANS-TensorFlow.ipynb](assignments/assignment3/GANS-TensorFlow.ipynb)
+* Q4: Style Transfer - [StyleTransfer-TensorFlow.ipynb](assignments/assignment3/StyleTransfer-TensorFlow.ipynb)
+* Q5: Generative Adversarial Networks - [Generative_Adversarial_Networks_PyTorch.ipynb](assignments/assignment3/Generative_Adversarial_Networks_PyTorch.ipynb)
 
 
 ## Reference list
